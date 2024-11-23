@@ -6,4 +6,4 @@ This custom component library is for you.
 
 To learn more about how custom component libraries work, visit Retool's [official documentation](https://docs.retool.com/apps/guides/custom/custom-component-libraries).
 
-Thanks to @yuwhs for the underlying [react-markdown-preview](https://github.com/uiwjs/react-markdown-preview) component at [https://github.com/uiwjs/react-markdown-preview(https://github.com/uiwjs/react-markdown-preview).
+Thanks to @yuwhs for the underlying [react-markdown-preview](https://github.com/uiwjs/react-markdown-preview) component at [https://github.com/uiwjs/react-markdown-preview](https://github.com/uiwjs/react-markdown-preview).
